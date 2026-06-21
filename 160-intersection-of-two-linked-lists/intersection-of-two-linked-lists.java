@@ -27,6 +27,6 @@ public class Solution {
             }
 
         }
-        return temp1;
+        return temp2;
     }
 }
